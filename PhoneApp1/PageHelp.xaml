@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:SOMAWP8="clr-namespace:SOMAWP8;assembly=SOMAWP8"
+    x:Class="PhoneApp1.PageHelp"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" Margin="0,0,0,100">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,-100">
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/MainBackground.jpg"/>
+            </Grid.Background>
+            <ScrollViewer HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="436" Height="748">
+                <Grid Height="518" Width="400">
+                    <Grid
+            			Background="#FF3A81BF" Margin="0,-93,0,-119">
+                        <TextBlock 
+            				TextWrapping="Wrap" 
+            				Foreground="Azure" Text="Match the colors to win the game. Are you smart, quick and can you think on your feet, then these puzzle games are just right for you." Margin="34,32,32,367"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="34,172,0,0" TextWrapping="Wrap" Text="How To Play" VerticalAlignment="Top" Foreground="Black" FontSize="36"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="34,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="334">
+                        	<Run Text="Two boxes will appear when you will start e new game. You must decide if the meaning of the word on the above box matches the ink color of the box below by clicking Match or No Match."/>
+                        	<LineBreak/><LineBreak/>
+                        	<Run Text="Faster you will click the right choice, more bonus point you will earn "/>
+                        </TextBlock>
+                    </Grid>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+        <Button  
+			HorizontalAlignment="Left" 
+			Margin="60,618,0,-50" 
+			Grid.Row="1" 
+			VerticalAlignment="Top" 
+			Width="200" 
+			Height="100" Click="Button_Click" BorderThickness="0" >
+            <Button.Background>
+                <ImageBrush ImageSource="Assets/BackButton.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <SOMAWP8:SomaAdViewer Name="SmaatoAd" PopupAd="True" ShowErrors="False" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Margin="10,0,-10,-100"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

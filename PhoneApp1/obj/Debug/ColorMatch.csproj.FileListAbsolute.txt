@@ -1,0 +1,101 @@
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\GamePage.g.cs
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\ScorePage.g.cs
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\ColorMatch.csproj.GenerateResource.Cache
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\PageHelp.g.cs
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\obj\Debug\ColorMatch.csprojResolveAssemblyReference.cache
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\SOMAWP8.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\SOMAWP8.pdb
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.xml
+C:\Users\Oltion Prifti\Desktop\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.Primitives.xml
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\SOMAWP8.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\System.Windows.Interactivity.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.Primitives.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\SOMAWP8.pdb
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.xml
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\System.Net.Http.Primitives.xml
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\GamePage.g.cs
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\PageHelp.g.cs
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\ScorePage.g.cs
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\ColorMatch.csproj.GenerateResource.Cache
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+D:\Oltion\APLIKACIONE\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
